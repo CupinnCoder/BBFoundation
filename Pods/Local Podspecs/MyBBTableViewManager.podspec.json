@@ -1,0 +1,30 @@
+{
+  "name": "MyBBTableViewManager",
+  "version": "0.0.1",
+  "summary": "ASPkit列表管理器",
+  "homepage": "https://github.com/CupinnCoder/MyBBTableView",
+  "license": "Copyright (C) 2016 Gary, Inc.  All rights reserved.",
+  "authors": {
+    "zhuguanyu": "zhuguanyu@cupinn.com"
+  },
+  "social_media_url": "http://www.cupinn.com",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/CupinnCoder/MyBBTableView.git"
+  },
+  "source_files": "MyBBTableViewManager/MyBBTableViewManager/**/*.{h,m,c}",
+  "requires_arc": true,
+  "dependencies": {
+    "pop": [
+
+    ],
+    "AsyncDisplayKit": [
+
+    ],
+    "YYKit": [
+
+    ]
+  }
+}
