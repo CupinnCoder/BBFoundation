@@ -151,7 +151,7 @@
 		4E29EFAA1CCF80B600BC7907 /* BBFoundationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BBFoundationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E29EFAE1CCF80B600BC7907 /* BBFoundationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BBFoundationUITests.m; sourceTree = "<group>"; };
 		4E29EFB01CCF80B600BC7907 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4EDDFC3B1CDC70D6006F7141 /* BBFoundationHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BBFoundationHeader.h; sourceTree = "<group>"; };
+		4EDDFC3B1CDC70D6006F7141 /* BBFoundation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BBFoundation.h; sourceTree = "<group>"; };
 		4EED60C81CD9F4640017FAA2 /* BBCoreFoundationMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBCoreFoundationMacro.h; sourceTree = "<group>"; };
 		4EED60C91CD9F4640017FAA2 /* BBCoreFoundationMacro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBCoreFoundationMacro.m; sourceTree = "<group>"; };
 		4EED60CB1CD9F9450017FAA2 /* YTKKeyValueStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YTKKeyValueStore.h; sourceTree = "<group>"; };
@@ -461,7 +461,7 @@
 				4EED60C21CD9F3A40017FAA2 /* Cache */,
 				4EED60C31CD9F3A40017FAA2 /* Model */,
 				4EED60C41CD9F3A40017FAA2 /* Style */,
-				4EDDFC3B1CDC70D6006F7141 /* BBFoundationHeader.h */,
+				4EDDFC3B1CDC70D6006F7141 /* BBFoundation.h */,
 			);
 			path = BBFoundation;
 			sourceTree = "<group>";
