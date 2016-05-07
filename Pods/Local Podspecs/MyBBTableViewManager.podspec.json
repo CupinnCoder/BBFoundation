@@ -12,7 +12,7 @@
     "ios": "7.0"
   },
   "source": {
-    "git": "https://github.com/CupinnCoder/MyBBTableView.git"
+    "git": "https://github.com/CupinnCoder/MyBBTableViewManager.git"
   },
   "source_files": "MyBBTableViewManager/MyBBTableViewManager/**/*.{h,m,c}",
   "requires_arc": true,

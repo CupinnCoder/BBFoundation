@@ -108,7 +108,7 @@ CHECKOUT OPTIONS:
     :commit: 8a2d4e80dc5df13bd6f8f91e5af1eed4e2a5697f
     :git: https://github.com/CupinnCoder/JDStatusBarNotification.git
   MyBBTableViewManager:
-    :commit: ba406a07701c3a6302af4a5ef04be5885811dcd6
+    :commit: a92ce6ac3d9f94064b0d339333c2e27ae5f40fff
     :git: https://github.com/CupinnCoder/MyBBTableViewManager
 
 SPEC CHECKSUMS:
@@ -127,7 +127,7 @@ SPEC CHECKSUMS:
   JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
   JTCalendar: 57a4420f12d10c93c3b28da96803e7043d1c9281
   Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
-  MyBBTableViewManager: 31f0312fd986e0e3b493ee66afb113ce4dc06b8f
+  MyBBTableViewManager: 64081fa09382dcefb9c72b42064b56ea31d738a4
   NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
   PINCache: 078426d356ab95ef875e9e62e5c35a2ea3333c28
   PINRemoteImage: 4ac4011c5caefd6befd99758e09becede05d3226
