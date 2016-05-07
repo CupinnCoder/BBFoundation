@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.social_media_url   = "http://www.cupinn.com"
   s.ios.deployment_target = "7.1"
   s.source       = { :git => "/Item/Project/OpenSourceCode/BBFoundation"}
-  s.source_files  = "BBFoundation/BBFoundation/**/**/**/*.{h,m,c}"
+  s.source_files  = "BBFoundation/BBFoundation/**/**/**/*.{h,m,c,txt}"
   s.requires_arc = true
   s.dependency 'SDWebImage'
   s.dependency 'DateTools'
