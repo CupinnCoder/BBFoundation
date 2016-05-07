@@ -13,7 +13,6 @@
 #import "BBStyle.h"
 #import "BBDefaultStyle.h"
 #import "BBDataHelper.h"
-#import "NetUtility.h"
 #import "BBModel.h"
 #import "BBTableViewItem.h"
 #import "BBTableViewItemCell.h"
