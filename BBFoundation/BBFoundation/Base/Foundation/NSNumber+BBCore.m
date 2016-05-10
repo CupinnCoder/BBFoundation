@@ -10,7 +10,7 @@
 #import "NSString+BBCore.h"
 #import "BBCoreFoundationMacro.h"
 
-BBSYNTH_DUMMY_CLASS(NSNumber_BBCore)
+YYSYNTH_DUMMY_CLASS(NSNumber_BBCore)
 
 @implementation NSNumber (BBCore)
 + (NSNumber *)bb_numberWithString:(NSString *)string {

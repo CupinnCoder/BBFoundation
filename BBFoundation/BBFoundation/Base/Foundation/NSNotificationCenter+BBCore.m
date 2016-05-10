@@ -10,7 +10,7 @@
 #include <pthread.h>
 #import "BBCoreFoundationMacro.h"
 
-BBSYNTH_DUMMY_CLASS(NSNotificationCenter_BBCore)
+YYSYNTH_DUMMY_CLASS(NSNotificationCenter_BBCore)
 
 @implementation NSNotificationCenter (BBCore)
 

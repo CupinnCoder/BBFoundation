@@ -11,7 +11,7 @@
 #include <CommonCrypto/CommonCrypto.h>
 #include <zlib.h>
 
-BBSYNTH_DUMMY_CLASS(NSData_BBCore)
+YYSYNTH_DUMMY_CLASS(NSData_BBCore)
 
 
 @implementation NSData (BBCore)

@@ -358,6 +358,7 @@
 		4EED62131CDB4EA60017FAA2 /* BBListHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBListHeaderView.m; sourceTree = "<group>"; };
 		4EED62231CDB53880017FAA2 /* UIScrollView+BBPullRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+BBPullRefresh.h"; sourceTree = "<group>"; };
 		4EED62241CDB53880017FAA2 /* UIScrollView+BBPullRefresh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+BBPullRefresh.m"; sourceTree = "<group>"; };
+		4EF0148F1CE1E30000EFEDE6 /* BBFoundation-PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BBFoundation-PrefixHeader.pch"; sourceTree = "<group>"; };
 		6FE73E80559A03B694563D64 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		8CD4970D16F20C6AA6D12ECA /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		921E28FCC571D98E6A7E87DA /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
@@ -432,6 +433,7 @@
 			isa = PBXGroup;
 			children = (
 				4E29EF8A1CCF80B600BC7907 /* main.m */,
+				4EF0148F1CE1E30000EFEDE6 /* BBFoundation-PrefixHeader.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -1383,6 +1385,8 @@
 			baseConfigurationReference = 6FE73E80559A03B694563D64 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BBFoundation/BBFoundation-PrefixHeader.pch";
 				INFOPLIST_FILE = BBFoundation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1396,6 +1400,8 @@
 			baseConfigurationReference = 921E28FCC571D98E6A7E87DA /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BBFoundation/BBFoundation-PrefixHeader.pch";
 				INFOPLIST_FILE = BBFoundation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

@@ -11,7 +11,7 @@
 #import <objc/objc.h>
 #import <objc/runtime.h>
 
-BBSYNTH_DUMMY_CLASS(NSObject_BBCore)
+YYSYNTH_DUMMY_CLASS(NSObject_BBCore)
 
 @implementation NSObject (BBCore)
 /*

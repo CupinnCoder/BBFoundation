@@ -18,7 +18,7 @@
 #import "NSString+BBCore.h"
 #import "SSKeychain.h"
 
-BBSYNTH_DUMMY_CLASS(UIDevice_BBCore)
+YYSYNTH_DUMMY_CLASS(UIDevice_BBCore)
 
 
 @implementation UIDevice (BBCore)

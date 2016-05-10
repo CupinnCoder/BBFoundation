@@ -10,7 +10,7 @@
 #import "BBCoreFoundationMacro.h"
 #import <time.h>
 
-BBSYNTH_DUMMY_CLASS(NSDate_BBCore)
+YYSYNTH_DUMMY_CLASS(NSDate_BBCore)
 
 @implementation NSDate (BBCore)
 

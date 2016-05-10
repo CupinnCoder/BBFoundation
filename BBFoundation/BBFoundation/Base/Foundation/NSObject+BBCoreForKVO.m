@@ -11,7 +11,7 @@
 #import <objc/objc.h>
 #import <objc/runtime.h>
 
-BBSYNTH_DUMMY_CLASS(NSObject_BBCoreForKVO)
+YYSYNTH_DUMMY_CLASS(NSObject_BBCoreForKVO)
 
 static const int block_key;
 

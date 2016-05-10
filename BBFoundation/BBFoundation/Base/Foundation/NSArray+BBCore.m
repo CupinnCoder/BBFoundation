@@ -10,7 +10,7 @@
 #import "BBCoreFoundationMacro.h"
 #import "NSData+BBCore.h"
 
-BBSYNTH_DUMMY_CLASS(NSArray_BBCore)
+YYSYNTH_DUMMY_CLASS(NSArray_BBCore)
 
 @implementation NSArray (BBCore)
 

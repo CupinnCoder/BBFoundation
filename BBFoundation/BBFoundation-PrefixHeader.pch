@@ -1,0 +1,27 @@
+//
+//  BBFoundation-PrefixHeader.pch
+//  BBFoundation
+//
+//  Created by Gary on 5/10/16.
+//  Copyright © 2016 Gary. All rights reserved.
+//
+
+//#ifndef BBFoundation_PrefixHeader_pch
+//#define BBFoundation_PrefixHeader_pch
+//
+//// Include any system framework and library headers here that should be included in all compilation units.
+//// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//
+//
+//#endif /* BBFoundation_PrefixHeader_pch */
+
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <YYKit/YYKit.h>
+#endif

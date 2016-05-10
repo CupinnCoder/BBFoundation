@@ -11,7 +11,7 @@
 #import "NSData+BBCore.h"
 #import "BBCoreFoundationMacro.h"
 
-BBSYNTH_DUMMY_CLASS(NSDictionary_BBCore)
+YYSYNTH_DUMMY_CLASS(NSDictionary_BBCore)
 
 @interface _BBXMLDictionaryParser : NSObject <NSXMLParserDelegate>
 @end

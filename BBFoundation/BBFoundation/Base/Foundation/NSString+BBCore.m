@@ -12,7 +12,7 @@
 #import "UIDevice+BBCore.h"
 #import "BBCoreFoundationMacro.h"
 
-BBSYNTH_DUMMY_CLASS(NSString_BBCore)
+YYSYNTH_DUMMY_CLASS(NSString_BBCore)
 
 @implementation NSString (BBCore)
 
