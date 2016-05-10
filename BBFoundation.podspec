@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BBFoundation"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "咖品汇iOS开发框架"
   s.homepage     = "https://github.com/CupinnCoder/BBFoundation"
   s.license      = "Copyright (C) 2015 Cupinn, Inc.  All rights reserved."
