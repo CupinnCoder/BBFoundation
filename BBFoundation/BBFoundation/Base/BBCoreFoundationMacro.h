@@ -10,6 +10,7 @@
 #import <UIKit/UIKit.h>
 #import <sys/time.h>
 #import <pthread.h>
+#import <YYKitMacro.h>
 
 //#ifdef __cplusplus
 //#define BB_EXTERN_C_BEGIN  extern "C" {
