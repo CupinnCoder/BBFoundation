@@ -16,7 +16,7 @@ pod 'DateTools'
 pod 'ActionSheetPicker-3.0'
 pod 'EGOCache'
 pod 'JTCalendar'
-pod 'PINRemoteImage'
+pod 'PINRemoteImage','~>3.0.0-beta.4'
 pod 'GKFadeNavigationController‘
 pod 'Masonry'
 pod 'JSONModel'
