@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.dependency 'SDWebImage'
   s.dependency 'DateTools'
   s.dependency 'JTCalendar'
-  s.dependency 'PINRemoteImage'
+  s.dependency 'PINRemoteImage','~>3.0.0-beta.3'
   s.dependency 'GKFadeNavigationController'
   s.dependency 'JSONModel'
   s.dependency 'SSKeychain'
